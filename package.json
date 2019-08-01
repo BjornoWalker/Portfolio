@@ -9,7 +9,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"homepage": "https://BjornoWalker.github.io/Portfolio",
+	"homepage": "https://BjornoWalker.github.io/Portfolio/",
 	"dependencies": {
 		"gh-pages": "^2.1.0"
 	}
