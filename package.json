@@ -11,6 +11,6 @@
 	"license": "ISC",
 	"homepage": "https://BjornoWalker.github.io/Portfolio/",
 	"dependencies": {
-		"gh-pages": "^2.1.0"
+		"gh-pages": "^5.0.0"
 	}
 }
